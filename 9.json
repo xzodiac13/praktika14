@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "nathan_carter",
+      "password": "securepass999",
+      "full_name": "Nathan Carter",
+      "birthdate": "1991-07-28"
+    },
+    {
+      "username": "sophia_brown",
+      "password": "strongpass789",
+      "full_name": "Sophia Brown",
+      "birthdate": "1986-04-17"
+    }
+  ]
+}

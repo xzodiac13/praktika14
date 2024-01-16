@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "peter_smith",
+      "password": "securepass123",
+      "full_name": "Peter Smith",
+      "birthdate": "1980-09-25"
+    },
+    {
+      "username": "emma_davis",
+      "password": "strongpass789",
+      "full_name": "Emma Davis",
+      "birthdate": "1995-05-08"
+    }
+  ]
+}
